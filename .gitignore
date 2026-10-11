@@ -1,0 +1,25 @@
+# opencode / tooling de desarrollo (no es parte del sitio publicado)
+.opencode/
+
+# Dependencias
+node_modules/
+package-lock.json
+bun.lock
+
+# Variables de entorno y secretos
+.env
+.env.*
+*.local
+*.secret
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Logs y temporales
+*.log

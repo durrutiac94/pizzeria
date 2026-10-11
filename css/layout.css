@@ -1,0 +1,12 @@
+html {
+  scroll-padding-top: var(--scroll-offset);
+}
+
+[id] {
+  scroll-margin-top: var(--scroll-offset);
+}
+
+html,
+body {
+  overflow-x: clip;
+}

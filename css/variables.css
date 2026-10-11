@@ -1,0 +1,52 @@
+:root {
+  --color-primary: #0d3b66;
+  --color-primary-dark: #072544;
+
+  --color-secondary: #e8871e;
+  --color-secondary-dark: #c26d12;
+
+  --color-success: #2e7d32;
+  --color-error: #c62828;
+  --color-warning: #f9a825;
+
+  --color-neutral-900: #1a1a1a;
+  --color-neutral-700: #4a4a4a;
+  --color-neutral-500: #7a7a7a;
+  --color-neutral-300: #d4d8dd;
+  --color-neutral-100: #f4f6f8;
+  --color-white: #ffffff;
+
+  --color-text: var(--color-neutral-900);
+  --color-text-muted: var(--color-neutral-700);
+  --color-background: var(--color-white);
+  --color-surface: var(--color-neutral-100);
+  --color-border: var(--color-neutral-300);
+
+  --font-family-sans: system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+  --font-size-5xl: 3rem;
+
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-tight: 1.2;
+  --line-height-base: 1.5;
+  --line-height-relaxed: 1.75;
+
+  --letter-spacing-tight: -0.01em;
+  --letter-spacing-normal: 0;
+  --letter-spacing-wide: 0.05em;
+
+  --scroll-offset: 8rem;
+}
